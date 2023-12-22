@@ -28,7 +28,6 @@ align-items:center;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end !important;
-    border: 2px solid red;
 }
 
 .cc-navbar-container a {
