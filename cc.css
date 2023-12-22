@@ -1,0 +1,36 @@
+.elementor-button{
+    padding: 0px;
+    margin: 8px 16px;
+    flex:1;
+    cursor: pointer;
+}
+
+.elementor-button-text{
+overflow: hidden;
+font-size: 12px;
+display: flex;
+height: auto;
+align-items:center;
+}
+
+.cc-banner-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cc-navbar-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end !important;
+    border: 2px solid red;
+}
+
+.cc-navbar-container ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end !important;
+}
+
+.cc-navbar-container a {
+text-shadow: 1px 2px 4px rgba(0,0,0,0.5);
+}
